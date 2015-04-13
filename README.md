@@ -15,6 +15,8 @@ Basically, the game rules are these:
 3. If a cell is live and has too many living neighbours (more than 3), she will die next round
 4. If a cell is dead and has exactly 3 living neighbors, she will born the next round
 
-![Board settings](/screenshots/board-settings-frame.jpg?raw=true "Board settings (splash frame)")
+## Screenshots
 
-![The board itself](/screenshots/board-settings-frame.jpg?raw=true "The board itself")
+![Board settings](https://github.com/germanger/game-of-life-awt/blob/master/screenshots/board-settings-frame.png?raw=true "Board settings (splash frame)")
+
+![The board itself](https://github.com/germanger/game-of-life-awt/blob/master/screenshots/board-frame.png?raw=true "The board itself")
